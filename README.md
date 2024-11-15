@@ -3,19 +3,30 @@ This hands-on workshop introduces participants to Git, a powerful version contro
 
 # Agenda:
 Version Control systems
+
 Git and Github
+
 Create an organization
+
 Create a repository
+
 Create issues
+
 Forking a repository
+
 Cloning a repository
+
 Branching a project
+
 Contributing to a repository
+
 Code review and merging
 
 # Pre-requisites:
 Internet use: Introductory level
+
 GirHub account
+
 GitHub desktop: Installed
 
 # Participants:
