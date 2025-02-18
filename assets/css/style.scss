@@ -3,11 +3,17 @@
 
 @import "{{ site.theme }}";
 
+header {
+  width: 100%;
+  padding: 20px;
+  background-color: #f4f4f4; /* Optional: Add background color */
+}
+
 .header-container {
     display: flex;
     align-items: center;
-    justify-content: space-between: 
-    gap: 15px; /* Space between image and title */
+    justify-content: space-between;
+    gap: 20px; /* Space between image and title */
 }
 
 .header-image {
