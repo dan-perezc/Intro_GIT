@@ -6,7 +6,7 @@
 header {
   width: 100%;
   padding: 20px;
-  background-color: #76200d; /* Optional: Add background color */
+  background-color: #730c0c; /* Optional: Add background color */
 }
 
 .header-container {
@@ -14,9 +14,37 @@ header {
     align-items: center;
     justify-content: space-between;
     gap: 20px; /* Space between image and title */
+    flex-wrap: wrap;              /* Allow wrapping when the screen size changes */
+
 }
 
 .header-image {
-    width: 100px; /* Adjust size */
+    width: 20%;                   /* Use a percentage for flexible width */
+    max-width: 100px;             /* Maximum image size */
     height: auto;
+}
+
+.container {
+  flex: 1;                      /* Text takes remaining space */
+}
+.btn {
+  background-color: #4CAF50;    /* Green button */
+  color: white;
+  padding: 10px 15px;
+  margin-right: 10px;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+.btn:hover {
+  background-color: #45a049;
+}
+
+.btn-github {
+  background-color: #333;
+}
+
+.btn-github:hover {
+  background-color: #444;
 }
