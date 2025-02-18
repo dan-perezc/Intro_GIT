@@ -25,22 +25,11 @@ header {
 }
 
 .container {
-  flex: 1;                      /* Text takes remaining space */
-}
-
-#a-title {
-  text-decoration: none;        /* Remove underline from the link */
-}
-
-h1 {
-  margin: 0;                    /* Remove default margin */
-  font-size: 2rem;              /* Title size */
-}
-
-h2 {
-  margin: 0;                    /* Remove default margin */
-  font-size: 1.2rem;            /* Description size */
-  color: #555;                  /* Optional: Set description color */
+  flex: 1;                     /* Take remaining space */
+  display: flex;               /* Make the container a flexbox to center its content */
+  flex-direction: column;      /* Stack title and description vertically */
+  align-items: center;         /* Center the title and description */
+  justify-content: center;     /* Center content vertically */
 }
 
 .btn {
