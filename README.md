@@ -23,7 +23,7 @@ GitHub desktop: Installed
 
 # Materials
 
-<a href="{{ site.baseurl }}/assets/presentation.pdf" target="_blank">Download Presentation PDF</a>
+<a href="GitHubBasics3.pdf" target="_blank">Download Presentation PDF</a>
 
 # Hands-On Project:
 
