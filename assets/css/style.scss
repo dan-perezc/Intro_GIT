@@ -40,8 +40,8 @@ header {
 }
 */
 h1 {
-  margin: 0;                   /* Remove default margin 
-  font-size: 2rem;             /* Title size 
+  margin: 0;                   /* Remove default margin */
+  font-size: 2rem;             /* Title size */
 }
   
   h1::before {
@@ -53,7 +53,8 @@ h2 {
   margin: 0;                   /* Remove default margin 
   font-size: 1.2rem;           /* Description size 
   color: #555;                 /* Optional: Set description color 
-} */
+} 
+  */
 
 .btn {
   background-color: #4CAF50;    /* Green button */
