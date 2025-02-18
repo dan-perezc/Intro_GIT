@@ -1,11 +1,7 @@
-
-# <img src="https://github.com/CMC-QCL/Intro_GIT/blob/edit/main/assets/images/QCL.png" alt="Description" width="500">
-
-
 <div class="header-container">
     <img src="./assets/images/QCL.png" alt="Profile Picture" class="header-image">
     <div class="header-text">
-        <h1>My Awesome Title</h1>
+        <h1>{{site.title}}</h1>
         <p>This is a short description about the page.</p>
     </div>
 </div>
