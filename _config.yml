@@ -4,20 +4,10 @@ plugins:
 gem "github-pages", group: :jekyll_plugins
 
 
-# ---
 # image: ![Alt text](/assets/images/QCL.png) 
 title: Intro to GIT workflow
 author: Daniel Perez
 description: Introductory course to GIT workflow using graphical user interface.
 show_downloads: true
-# ---
 
-# ---
-# <div class="header-container">
-#     <img src="{{ site.baseurl }}/assets/images/QCL.png" alt="Profile Picture" class="header-image">
-#     <div class="header-text">
-#         <h1>My Awesome Title</h1>
-#         <p>This is a short description about the page.</p>
-#     </div>
-# </div>
-# ---
+
