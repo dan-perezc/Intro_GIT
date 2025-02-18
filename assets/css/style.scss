@@ -25,11 +25,12 @@ header {
 }
 
 .container {
-  flex: 1;                     /* Take remaining space */
-  display: flex;               /* Make the container a flexbox to center its content */
-  flex-direction: column;      /* Stack title and description vertically */
-  align-items: center;         /* Center the title and description */
-  justify-content: center;     /* Center content vertically */
+  flex-grow: 1;                /* Let the text container take remaining space */
+  display: flex;               /* Make the container a flexbox */
+  flex-direction: column;      /* Stack the title and description vertically */
+  align-items: flex-start;     /* Align text to the left */
+  justify-content: center;     /* Vertically center the text */
+  max-width: 100%;             /* Prevent the text from growing too wide */
 }
 
 .btn {
