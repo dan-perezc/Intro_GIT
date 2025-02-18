@@ -1,10 +1,4 @@
----
-title: Intro to GIT Workflow T
-author: Daniel Perez A
-description: This is GIT D
----
-
-![Alt text](/assets/images/QCL.png)
+--![Alt text](/assets/images/QCL.png)
 <img src="/assets/images/QCL.png" alt="Description" width="500">
 
 # Intro_GIT
