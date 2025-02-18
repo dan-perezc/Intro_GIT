@@ -1,4 +1,4 @@
---![Alt text](/assets/images/QCL.png)
+--
 <img src="/assets/images/QCL.png" alt="Description" width="500">
 
 # Intro_GIT
