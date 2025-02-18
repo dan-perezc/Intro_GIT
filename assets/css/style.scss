@@ -6,10 +6,11 @@
 .header-container {
     display: flex;
     align-items: center;
+    justify-content: space-between: 
     gap: 15px; /* Space between image and title */
 }
 
 .header-image {
-    width: 80px; /* Adjust size */
+    width: 100px; /* Adjust size */
     height: auto;
 }
