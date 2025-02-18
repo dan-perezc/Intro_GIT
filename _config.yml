@@ -4,7 +4,8 @@ plugins:
 gem "github-pages", group: :jekyll_plugins
 
 ---
-![Alt text](/assets/images/QCL.png) title: Intro to GIT workflow
+![Alt text](/assets/images/QCL.png) 
+title: Intro to GIT workflow
 author: Daniel Perez
 description: Introductory course to GIT workflow using graphical user interface.
 ---
