@@ -21,7 +21,7 @@ header {
 
 .header-image {
     width: 40%;                   /* Use a percentage for flexible width */
-    max-width: 100px;             /* Maximum image size */
+    max-width: 500px;             /* Maximum image size */
     height: auto;
     object-fit: cover;            /* Ensure it fills properly */
 }
