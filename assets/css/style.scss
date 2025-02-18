@@ -43,6 +43,11 @@ h1 {
   margin: 0;                   /* Remove default margin 
   font-size: 2rem;             /* Title size 
 }
+  
+  h1::before {
+  content: none !important;
+}
+  
 /*
 h2 {
   margin: 0;                   /* Remove default margin 
