@@ -6,5 +6,5 @@ gem "github-pages", group: :jekyll_plugins
 ---
 title: Intro to GIT workflow
 author: Daniel Perez
-description: Introductory course to git workflow using graphical user interface
+description: Introductory course to GIT workflow using graphical user interface.
 ---
