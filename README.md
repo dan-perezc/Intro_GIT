@@ -1,5 +1,5 @@
---
-<img src="https://github.com/CMC-QCL/Intro_GIT/blob/edit/main/assets/images/QCL.png" alt="Description" width="500">
+
+# <img src="https://github.com/CMC-QCL/Intro_GIT/blob/edit/main/assets/images/QCL.png" alt="Description" width="500">
 
 
 <div class="header-container">
