@@ -3,8 +3,3 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 gem "github-pages", group: :jekyll_plugins
 
-___
-title: Intro to GIT
-author: DAniel Perez
-description: This is GIT
-___
