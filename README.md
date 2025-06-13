@@ -141,20 +141,21 @@ Everyone should add **one sentence** beneath this line.
 ---
 
 ## ✅ Checklist (for instructors)
+
 - [ ] Add students as collaborators to the repo
 - [ ] Confirm they’ve accepted the invite
 - [ ] Share these instructions
 - [ ] Create Issues for each student
-  - [ ] Setting – Establish the place and time where the story begins
-	Main Character Introduction – Introduce a central figure or protagonist
-	Supernatural or Sci-Fi Twist – Add an unusual or futuristic element
-	Conflict or Challenge – Present a problem or obstacle the characters must face
-	Dialogue (Conversation) – Include spoken interaction between characters
-	Internal Thoughts or Emotions – Show what a character is thinking or feeling
-	Plot Twist – Introduce a surprising or unexpected development
-	Technology or Invention – Describe a fictional device or discovery
-	World-building Details – Add unique elements that define the story’s universe
-	Resolution or Cliffhanger – Wrap up the moment or leave the reader in suspense   
+  - [ ] Setting – Establish the place and time where the story begins <br>
+	Main Character Introduction – Introduce a central figure or protagonist <br>
+	Supernatural or Sci-Fi Twist – Add an unusual or futuristic element <br>
+	Conflict or Challenge – Present a problem or obstacle the characters must face <br>
+	Dialogue (Conversation) – Include spoken interaction between characters <br>
+	Internal Thoughts or Emotions – Show what a character is thinking or feeling <br>
+	Plot Twist – Introduce a surprising or unexpected development <br>
+	Technology or Invention – Describe a fictional device or discovery <br>
+	World-building Details – Add unique elements that define the story’s universe <br>
+	Resolution or Cliffhanger – Wrap up the moment or leave the reader in suspense <br>  
 - [ ] Help troubleshoot token setup
 - [ ] Review and merge pull requests
 - [ ] Celebrate the final story!
