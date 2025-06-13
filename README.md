@@ -141,6 +141,7 @@ Everyone should add **one sentence** beneath this line.
 ---
 
 ## ✅ Checklist (for instructors)
+
 - [ ] Add students as collaborators to the repo
 - [ ] Confirm they’ve accepted the invite
 - [ ] Share these instructions
